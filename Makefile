@@ -34,7 +34,7 @@ GDB  = $(GDBCLI)
 DDEFS = -DSTM32F0XX -DUSE_STDPERIPH_DRIVER
 #
 # Define project name and Ram/Flash mode here
-PROJECT        = template
+PROJECT        = dma-dac
  
 # List C source files here
 LIBSDIRS    = ../STM32F0-Discovery_FW_V1.0.0/Libraries
